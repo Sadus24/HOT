@@ -1,2 +1,0 @@
-# HOT
-HemodynamicResponseFunction Optimization Toolbox
