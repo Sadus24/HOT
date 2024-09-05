@@ -71,6 +71,17 @@ This data comes from a right hand finger-tapping experiment in a block design. Y
 
 ---
 
+## **Other info**
+
+This tool is designed for research purposes only and should not be used for making any medical decisions
+
+The application operates based on the functionalities of FieldTrip and SPM12:
+**Penny, W., Friston, K., Ashburner, J., Kiebel, S., Nichols, T.: Statistical Parametric Mapping: The Analysis of Functional Brain Images. 1st edn., Elsevier (2007).**
+**Oostenveld, R., Fries, P., Maris, E., Schoffelen, J.M:  FieldTrip: Open Source Software for Advanced Analysis of MEG, EEG, and Invasive Electrophysiological Data. Computational Intelligence and Neuroscience, Volume 2011 (2011).**
+
+---
+
 ## **Contact**
 
 If you have any questions, feel free to contact me at: nhryniewicz@ibib.waw.pl
+
