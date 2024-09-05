@@ -1,8 +1,7 @@
 # HOT
 HemodynamicResponseFunction Optimization Toolbox
 
-Highly recommended to download sample EEG-fMRI data:
-https://drive.google.com/file/d/1mFTs1COvP2MuTMCKsjzLvS9_Z4FGC9PN/
+Highly recommended to download [sample EEG-fMRI data](https://drive.google.com/file/d/1mFTs1COvP2MuTMCKsjzLvS9_Z4FGC9PN/)
 
 ## **Requirements**
 
@@ -76,8 +75,10 @@ This data comes from a right hand finger-tapping experiment in a block design. Y
 This tool is designed for research purposes only and should not be used for making any medical decisions
 
 The application operates based on the functionalities of FieldTrip and SPM12:
-**Penny, W., Friston, K., Ashburner, J., Kiebel, S., Nichols, T.: Statistical Parametric Mapping: The Analysis of Functional Brain Images. 1st edn., Elsevier (2007).**
-**Oostenveld, R., Fries, P., Maris, E., Schoffelen, J.M:  FieldTrip: Open Source Software for Advanced Analysis of MEG, EEG, and Invasive Electrophysiological Data. Computational Intelligence and Neuroscience, Volume 2011 (2011).**
+
+*Penny, W., Friston, K., Ashburner, J., Kiebel, S., Nichols, T.: Statistical Parametric Mapping: The Analysis of Functional Brain Images. 1st edn., Elsevier (2007).*
+
+*Oostenveld, R., Fries, P., Maris, E., Schoffelen, J.M:  FieldTrip: Open Source Software for Advanced Analysis of MEG, EEG, and Invasive Electrophysiological Data. Computational Intelligence and Neuroscience, Volume 2011 (2011).*
 
 ---
 
