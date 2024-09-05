@@ -21,7 +21,7 @@ Highly recommended to download [sample EEG-fMRI data](https://drive.google.com/f
 
 ## **Installation**
 
-1. If you don't have them installed already, download [FieldTrip](https://www.fieldtriptoolbox.org/download/) and [SPM12](https://www.fil.ion.ucl.ac.uk/spm/software/spm12/), then add their directories to your MATLAB path.
+1. If you don't have them installed already, download [FieldTrip](https://www.fieldtriptoolbox.org/download/) and [SPM12](https://www.fil.ion.ucl.ac.uk/spm/software/download/), then add their directories to your MATLAB path.
    
 2. After downloading the HOT toolbox, add the entire HOT folder (including subfolders) to your MATLAB path.
    
