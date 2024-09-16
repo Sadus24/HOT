@@ -38,7 +38,7 @@ EEG2SPM is a universal tool for EEG-based fMRI analysis. It supports EEG signals
 - To start, either type `EEG2SPM` in the MATLAB command line or type `HOT` and click on the EEG2SPM button.  
 - First, define the number of EEG-fMRI sessions and specify code numbers from your EEG signal, such as the fMRI trigger, start, and end of an event.  
 - Click the **Load EEG** button. You will be notified if the EEG is loaded correctly.  
-- The right side of the app allows you to define the parameters for fMRI analysis. The **Dynamic Analysis** option is an additional tool that uses a dynamic analysis with moving analysis window (from -5 to +5 seconds around the start of an event).  
+- The right side of the app allows you to define the parameters for fMRI analysis. You can perform analysis for selected HRF with your own parameters and also load parameters obtained from the HOT application. The **Dynamic Analysis** option is an additional tool that uses a dynamic analysis with moving analysis window (from -5 to +5 seconds around the start of an event; canonical HRF only).  
 - Click **Run** to select fMRI data and the corresponding rp_ movement regressor files.
 - **Important:** In order to use the HOT toolbox, you need to have a specific `SPM.mat` file. If you don't have one, you can create it using the EEG2SPM tool. To prepare the `SPM.mat` file for the HOT toolbox, make sure that you're using single-session data, that the **Serial Corr** checkbox is **unchecked** and that the **Export: nifti masks** checkbox is **checked**.
 
@@ -58,7 +58,7 @@ Each change must be confirmed by pressing the **Apply** button.
 
 - You can optimize HRF parameters to make better fit between prediction and the BOLD signal by clicking **Optimize**. The application will find HRF parameters within a range of 0.5 to 1.5 (relative to default parameters) that minimize the mean squared error between the signal and the prediction.
 - To revert to default parameters, press **Default**.
-
+- You can save HRF parameters to a .mat file using the **Export parameters** button and then load them into EEG2SPM to perform whole-brain analysis
 ---
 
 ## **Sample Data**
